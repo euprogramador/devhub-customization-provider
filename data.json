@@ -1,0 +1,29 @@
+[
+    {
+        "title": "DevOps Tools",
+        "isExpanded": false,
+        "links": [
+            {
+                "iconUrl": "/developer-hub/custom-icons/icon-example-01.png",
+                "label": "Opção exemplo 1",
+                "url": "https://example-01.com/"
+            },
+            {
+                "iconUrl": "/developer-hub/custom-icons/icon-example-02.png",
+                "label": "Opção exemplo 2",
+                "url": "https://example-02.com/"
+            }
+        ]
+    },
+    {
+        "title": "Links Úteis",
+        "isExpanded": true,
+        "links": [
+            {
+                "iconUrl": "/developer-hub/custom-icons/icon-example-03.png",
+                "label": "Opção exemplo 3",
+                "url": "https://example-03.com/"
+            }
+        ]
+    }
+]
